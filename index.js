@@ -1,1 +1,1 @@
-console.log('This is a new test for ci')
+console.log('This is a new test')
